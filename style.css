@@ -11,7 +11,7 @@
 }
  
 h1 {
-   text-aling: center;
+   text-align: center;
 }
 
 p {
@@ -30,3 +30,6 @@ p {
     background: #FFFFFF;
 }
 
+h2 {
+   text-align: center;
+}
