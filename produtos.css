@@ -42,6 +42,11 @@ nav a {
 }
 
 .produtos h2 {
-     font size: 3opx;
+     font-size: 3opx;
     font-weight: bold;
 }
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+ }
